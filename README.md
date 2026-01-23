@@ -369,54 +369,7 @@ Download `gemini-voyager-safari-vX.Y.Z.zip` from [Releases](https://github.com/N
 
 ---
 
-## ☕ Support This Project
 
-<div align="center">
-  <a href="https://github.com/Nagi-ovo/gemini-voyager">
-    <img src="https://raw.githubusercontent.com/Nagi-ovo/gemini-voyager/main/docs/public/assets/sponsors.svg" width="1000px" />
-  </a>
-</div>
-
-If Gemini Voyager makes your life easier, consider buying me a coffee. It helps keep the updates coming! Sponsors will be featured in our Special Thanks section. ❤️
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Nag1ovo" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="36">
-  </a>
-  <a href="https://github.com/sponsors/Nagi-ovo" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor%20me-GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub" height="36">
-  </a>
-  
-  <p><b>Or support via WeChat / Alipay / Afdian:</b></p>
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="docs/public/assets/wechat-sponsor.png" alt="WeChat Pay" height="160"><br>
-        <sub><b>WeChat Pay</b></sub>
-      </td>
-      <td align="center">
-        <img src="docs/public/assets/alipay-sponsor.jpg" alt="Alipay" height="160"><br>
-        <sub><b>Alipay</b></sub>
-      </td>
-      <td align="center">
-        <a href="https://afdian.com/a/nagi-ovo" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://afdian-connect.deno.dev/profile.svg?slug=nagi-ovo&bg_color=%230d1117&text_color=%23dedbd7&border_color=%232e343d" />
-            <source media="(prefers-color-scheme: light)" srcset="https://afdian-connect.deno.dev/profile.svg?slug=nagi-ovo" />
-            <img alt="Nagi-ovo's Profile" src="https://afdian-connect.deno.dev/profile.svg?slug=nagi-ovo" height="160" />
-          </picture>
-        </a><br>
-        <sub><b>Afdian</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎙️ Recommended Tool: Typeless
-
-I highly recommend **[Typeless (typeless.com)](https://www.typeless.com/refer?code=MZRYZP1)**, an AI voice-to-text tool that I used extensively during the development of Gemini Voyager. Integrating it into my daily workflow has saved me a tremendous amount of time and significantly boosted my productivity.
-
-> 🎁 **[Join via my referral link](https://www.typeless.com/refer?code=MZRYZP1)** (Code: **`MZRYZP1`**) to get **$5 free credits**. This also gives me credits to keep maintaining this project—a free way to support my work! ❤️
 
 ---
 
